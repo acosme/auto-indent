@@ -1,6 +1,6 @@
 # AutoIndent
 
-TODO: Write a gem description
+Auto indentation for all rb files in a directory
 
 ## Installation
 
@@ -27,3 +27,6 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+=======
+auto-indent
+===========
